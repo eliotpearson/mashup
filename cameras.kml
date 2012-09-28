@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+ <Style id="NoneIconStyle">
+ <IconStyle>
+ <Icon>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="placemark5065e02cb08f89929e55a814">
+ <name>S CATON AVE &amp; BENSON AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6688185297,39.2693779962,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a815">
+ <name>S CATON AVE &amp; BENSON AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6689698176,39.2693157898,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a816">
+ <name>WILKENS AVE &amp; PINE HEIGHTS AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.676960806,39.2720252302,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a817">
+ <name>THE ALAMEDA &amp; E 33RD ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5953545714,39.3285013141,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a818">
+ <name>E 33RD ST &amp; THE ALAMEDA</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5953594625,39.3283410623,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a819">
+ <name>ERDMAN AVE &amp; N MACON ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5593167803,39.3068045671,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a81a">
+ <name>ERDMAN AVE &amp; N MACON ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5593122365,39.306966535,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a81b">
+ <name>N CHARLES ST &amp; E LAKE AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.625826716,39.3690535299,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a81c">
+ <name>E MADISON ST &amp; N CAROLINE ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5976760827,39.2993257666,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a81d">
+ <name>ORLEANS ST &amp; N LINWOOD AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5764270078,39.2958661981,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a81e">
+ <name>EASTERN AVE &amp; KANE ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5371017795,39.2877626582,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a81f">
+ <name>EDMONDSON AVE &amp; COOKS LN</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.7017056326,39.2923680595,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a820">
+ <name>W FRANKLIN ST &amp; N PULASKI ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6503837515,39.2937082594,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a821">
+ <name>ORLEANS ST &amp; N GAY ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.606128007,39.2947203114,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a822">
+ <name>S MARTIN LUTHER KING JR BLVD &amp; WASHINGTON BLVD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6261138807,39.2834598231,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a823">
+ <name>HILLEN RD &amp; ARGONNE DR</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.588021025,39.3399907644,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a824">
+ <name>W NORTH AVE &amp; N HOWARD ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6193071428,39.3110873669,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a825">
+ <name>E PATAPSCO AVE &amp; 4TH ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6054039252,39.2372692804,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a826">
+ <name>REISTERSTOWN RD &amp; FALLSTAFF RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.7102427408,39.3621351031,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a827">
+ <name>PARK HEIGHTS AVE &amp; HAYWARD AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6788706721,39.3499204055,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a828">
+ <name>PARK HEIGHTS AVE &amp; HAYWARD AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6788706721,39.3499204055,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a829">
+ <name>S MARTIN LUTHER KING JR BLVD &amp; W PRATT ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6278460704,39.2860268994,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a82a">
+ <name>W NORTHERN PKWY &amp; GREENSPRING AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6604587972,39.3550243172,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a82b">
+ <name>W NORTHERN PKWY &amp; GREENSPRING AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6605058823,39.3551612114,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a82c">
+ <name>EDMONDSON AVE &amp; N ATHOL AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6893905792,39.2934525382,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a82d">
+ <name>EDMONDSON AVE &amp; N ATHOL AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.689399241,39.2935925831,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a82e">
+ <name>FREDERICK AVE &amp; S CATHERINE ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6559289926,39.2833935865,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a82f">
+ <name>PARK HEIGHTS AVE &amp; VIOLET AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6597502076,39.3307133383,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a830">
+ <name>SINCLAIR LN &amp; MORAVIA RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5484525966,39.3220360862,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a831">
+ <name>WILKENS AVE &amp; DESOTO RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6681630903,39.2749037576,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a832">
+ <name>E NORTHERN PKWY &amp; WAVERLY WAY</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5810739873,39.367051509,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a833">
+ <name>E COLD SPRING LN &amp; HILLEN RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5859273904,39.3459074717,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a834">
+ <name>W COLD SPRING LN &amp; ROLAND AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6354262185,39.34390606,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a835">
+ <name>E COLD SPRING LN &amp; LOCH RAVEN BLVD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5920075335,39.3460452397,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a836">
+ <name>TAMARIND RD &amp; W COLD SPRING LN</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6519407916,39.343899313,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a837">
+ <name>HARFORD RD &amp; THE ALAMEDA</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5907705888,39.3212074758,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a838">
+ <name>HARFORD RD &amp; ROSALIE AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5478183886,39.3680654859,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a839">
+ <name>HARFORD RD &amp; CHRISTOPHER AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5562471252,39.3583326463,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a83a">
+ <name>SINCLAIR LN &amp; SHANNON DR</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5556737923,39.3175028074,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a83b">
+ <name>SINCLAIR LN &amp; SHANNON DR</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5556737923,39.3175028074,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a83c">
+ <name>LIBERTY HTS &amp; HILLSDALE RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6945100293,39.3304453818,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a83d">
+ <name>LIBERTY HTS &amp; HILLSDALE RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6945100293,39.3304453818,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a83e">
+ <name>E NORTHERN PKWY &amp; SPRINGLAKE WAY</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6176988692,39.3643110382,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a83f">
+ <name>HARFORD RD &amp; WALTHER AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5751846354,39.3353084656,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a840">
+ <name>W NORTHERN PKWY &amp; FALLS RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6462199216,39.3614127238,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a841">
+ <name>EDMONDSON AVE &amp; N HILTON ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6727600072,39.294061339,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a842">
+ <name>N PRESIDENT ST &amp; E FAYETTE ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6066648277,39.2906240776,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a843">
+ <name>RUSSELL ST &amp; W HAMBURG ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6237544477,39.2797863216,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a844">
+ <name>RUSSELL ST &amp; W HAMBURG ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6239105956,39.2798187398,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a845">
+ <name>LIGHT ST &amp; E PRATT ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6135493898,39.2865415105,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a846">
+ <name>E LOMBARD ST &amp; S GAY ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6087475019,39.2877660778,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a847">
+ <name>HARFORD RD &amp; E NORTH AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5993579666,39.3119363297,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a848">
+ <name>FORT SMALLWOOD RD &amp; FORT ARMISTEAD RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5559766825,39.1999130165,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a849">
+ <name>GARRISON BLVD &amp; WABASH AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6831167251,39.3412090597,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a84a">
+ <name>WALTHER AVE &amp; GLENMORE AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5424942905,39.3535402213,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a84b">
+ <name>W FRANKLIN ST &amp; CATHEDRAL ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.616872047,39.2950659131,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a84c">
+ <name>PERRING PKWY &amp; E BELVEDERE AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.575725921,39.3549627467,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a84d">
+ <name>GWYNNS FLS &amp; GARRISON BLVD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6762250182,39.3135792902,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a84e">
+ <name>REISTERSTOWN RD &amp; DRUID PARK DR</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6577109834,39.3252867997,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a84f">
+ <name>POTEE ST &amp; TALBOTT ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6122106478,39.2364856246,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a850">
+ <name>YORK RD &amp; GITTINGS AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6098121277,39.3704929583,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a851">
+ <name>WABASH AVE &amp; W BELVEDERE AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.685042508,39.3416713553,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a852">
+ <name>E NORTHERN PKWY &amp; YORK RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6099220341,39.3651462024,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a853">
+ <name>REISTERSTOWN RD &amp; PATTERSON AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.7025209585,39.3561820401,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a854">
+ <name>PULASKI HWY &amp; E MONUMENT ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5542506552,39.2997984532,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a855">
+ <name>W FRANKLIN ST &amp; N FRANKLINTOWN RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6623624871,39.2930857459,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a856">
+ <name>S HANOVER ST &amp; E CROMWELL ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6145872791,39.2620595495,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a857">
+ <name>REISTERSTOWN RD &amp; MENLO DR</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6963758159,39.3519849983,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a858">
+ <name>RUSSELL ST &amp; BAYARD ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6287385068,39.2734675536,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a859">
+ <name>LIBERTY HEIGHTS AVE &amp; N DUKELAND ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6666335903,39.3226393684,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a85a">
+ <name>S HANOVER &amp; REEDBIRD AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6137494417,39.2498797679,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a85b">
+ <name>W FAYETTE ST &amp; N LIBERTY ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.617661176,39.2905038859,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a85c">
+ <name>GWYNNS FLS &amp; GARRISON BLVD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6762250182,39.3135792902,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a85d">
+ <name>LOCH RAVEN BLVD &amp; WALKER AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5831798122,39.3700602939,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a85e">
+ <name>PULASKI HWY &amp; MORAVIA PARK DR</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5323658645,39.3086437141,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a85f">
+ <name>HILLEN ST &amp; FORREST ST</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6055317698,39.2968601609,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a860">
+ <name>PULASKI HWY &amp; NORTH POINT RD</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.5395800163,39.3043275894,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a861">
+ <name>N MONROE ST &amp; W LAFAYETTE AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.647517496,39.2987426878,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a862">
+ <name>W MOUNT ROYAL AVE &amp; W NORTH AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6247302963,39.3107672842,0</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5065e02cb08f89929e55a863">
+ <name>MOUNT ROYAL TER &amp; W NORTH AVE</name>
+ <description>camera</description>
+ <styleUrl>#NoneIconStyle</styleUrl>
+ <Point>
+ <coordinates>-76.6251255783,39.3108706445,0</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>
