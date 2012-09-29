@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>c_and_s</name>
+<Schema name="c_and_s" id="c_and_s">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="description" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>S CATON AVE &amp; BENSON AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">S CATON AVE &amp; BENSON AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.66881852969999,39.2693779961998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S CATON AVE &amp; BENSON AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">S CATON AVE &amp; BENSON AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.668969817599972,39.269315789799784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WILKENS AVE &amp; PINE HEIGHTS AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">WILKENS AVE &amp; PINE HEIGHTS AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676960805999983,39.272025230199787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THE ALAMEDA &amp; E 33RD ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">THE ALAMEDA &amp; E 33RD ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.59535457139998,39.328501314099789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E 33RD ST &amp; THE ALAMEDA</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E 33RD ST &amp; THE ALAMEDA</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.595359462499985,39.328341062299806,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ERDMAN AVE &amp; N MACON ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">ERDMAN AVE &amp; N MACON ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.55931678029998,39.306804567099789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ERDMAN AVE &amp; N MACON ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">ERDMAN AVE &amp; N MACON ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.559312236499977,39.306966534999802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N CHARLES ST &amp; E LAKE AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">N CHARLES ST &amp; E LAKE AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.62582671599999,39.369053529899794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E MADISON ST &amp; N CAROLINE ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E MADISON ST &amp; N CAROLINE ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.597676082699991,39.299325766599786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ORLEANS ST &amp; N LINWOOD AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">ORLEANS ST &amp; N LINWOOD AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.576427007799992,39.295866198099787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EASTERN AVE &amp; KANE ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">EASTERN AVE &amp; KANE ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.537101779499991,39.287762658199796,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EDMONDSON AVE &amp; COOKS LN</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">EDMONDSON AVE &amp; COOKS LN</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.701705632599982,39.292368059499793,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W FRANKLIN ST &amp; N PULASKI ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W FRANKLIN ST &amp; N PULASKI ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650383751499987,39.293708259399779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ORLEANS ST &amp; N GAY ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">ORLEANS ST &amp; N GAY ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.606128006999981,39.294720311399793,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S MARTIN LUTHER KING JR BLVD &amp; WASHINGTON BLVD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">S MARTIN LUTHER KING JR BLVD &amp; WASHINGTON BLVD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.62611388069999,39.28345982309979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HILLEN RD &amp; ARGONNE DR</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HILLEN RD &amp; ARGONNE DR</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.588021024999989,39.339990764399793,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W NORTH AVE &amp; N HOWARD ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W NORTH AVE &amp; N HOWARD ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.619307142799983,39.311087366899784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E PATAPSCO AVE &amp; 4TH ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E PATAPSCO AVE &amp; 4TH ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.60540392519998,39.237269280399779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REISTERSTOWN RD &amp; FALLSTAFF RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">REISTERSTOWN RD &amp; FALLSTAFF RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.710242740799984,39.36213510309981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARK HEIGHTS AVE &amp; HAYWARD AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PARK HEIGHTS AVE &amp; HAYWARD AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.67887067209999,39.34992040549978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARK HEIGHTS AVE &amp; HAYWARD AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PARK HEIGHTS AVE &amp; HAYWARD AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.67887067209999,39.34992040549978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S MARTIN LUTHER KING JR BLVD &amp; W PRATT ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">S MARTIN LUTHER KING JR BLVD &amp; W PRATT ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627846070399983,39.286026899399793,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W NORTHERN PKWY &amp; GREENSPRING AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W NORTHERN PKWY &amp; GREENSPRING AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.660458797199979,39.355024317199799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W NORTHERN PKWY &amp; GREENSPRING AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W NORTHERN PKWY &amp; GREENSPRING AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.660505882299987,39.355161211399789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EDMONDSON AVE &amp; N ATHOL AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">EDMONDSON AVE &amp; N ATHOL AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.68939057919998,39.293452538199801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EDMONDSON AVE &amp; N ATHOL AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">EDMONDSON AVE &amp; N ATHOL AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.68939924099999,39.293592583099795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FREDERICK AVE &amp; S CATHERINE ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">FREDERICK AVE &amp; S CATHERINE ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655928992599968,39.283393586499791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARK HEIGHTS AVE &amp; VIOLET AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PARK HEIGHTS AVE &amp; VIOLET AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.659750207599984,39.330713338299788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SINCLAIR LN &amp; MORAVIA RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">SINCLAIR LN &amp; MORAVIA RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.548452596599986,39.322036086199788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WILKENS AVE &amp; DESOTO RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">WILKENS AVE &amp; DESOTO RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.66816309029997,39.274903757599795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E NORTHERN PKWY &amp; WAVERLY WAY</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E NORTHERN PKWY &amp; WAVERLY WAY</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.581073987299973,39.367051508999786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E COLD SPRING LN &amp; HILLEN RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E COLD SPRING LN &amp; HILLEN RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.585927390399988,39.345907471699789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W COLD SPRING LN &amp; ROLAND AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W COLD SPRING LN &amp; ROLAND AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.635426218499987,39.34390605999981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E COLD SPRING LN &amp; LOCH RAVEN BLVD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E COLD SPRING LN &amp; LOCH RAVEN BLVD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.592007533499981,39.346045239699777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TAMARIND RD &amp; W COLD SPRING LN</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">TAMARIND RD &amp; W COLD SPRING LN</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.651940791599984,39.343899312999781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HARFORD RD &amp; THE ALAMEDA</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HARFORD RD &amp; THE ALAMEDA</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.590770588799984,39.321207475799781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HARFORD RD &amp; ROSALIE AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HARFORD RD &amp; ROSALIE AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.547818388599993,39.368065485899791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HARFORD RD &amp; CHRISTOPHER AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HARFORD RD &amp; CHRISTOPHER AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.556247125199988,39.358332646299793,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SINCLAIR LN &amp; SHANNON DR</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">SINCLAIR LN &amp; SHANNON DR</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.555673792299984,39.317502807399798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SINCLAIR LN &amp; SHANNON DR</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">SINCLAIR LN &amp; SHANNON DR</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.555673792299984,39.317502807399798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIBERTY HTS &amp; HILLSDALE RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">LIBERTY HTS &amp; HILLSDALE RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.694510029299991,39.330445381799791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIBERTY HTS &amp; HILLSDALE RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">LIBERTY HTS &amp; HILLSDALE RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.694510029299991,39.330445381799791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E NORTHERN PKWY &amp; SPRINGLAKE WAY</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E NORTHERN PKWY &amp; SPRINGLAKE WAY</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.617698869199984,39.364311038199794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HARFORD RD &amp; WALTHER AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HARFORD RD &amp; WALTHER AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.575184635399978,39.335308465599802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W NORTHERN PKWY &amp; FALLS RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W NORTHERN PKWY &amp; FALLS RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.646219921599979,39.361412723799788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EDMONDSON AVE &amp; N HILTON ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">EDMONDSON AVE &amp; N HILTON ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.672760007199983,39.294061338999782,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N PRESIDENT ST &amp; E FAYETTE ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">N PRESIDENT ST &amp; E FAYETTE ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.606664827699987,39.290624077599794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RUSSELL ST &amp; W HAMBURG ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">RUSSELL ST &amp; W HAMBURG ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.62375444769998,39.279786321599801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RUSSELL ST &amp; W HAMBURG ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">RUSSELL ST &amp; W HAMBURG ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.623910595599966,39.279818739799808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIGHT ST &amp; E PRATT ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">LIGHT ST &amp; E PRATT ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.613549389799971,39.286541510499802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E LOMBARD ST &amp; S GAY ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E LOMBARD ST &amp; S GAY ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.608747501899984,39.287766077799802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HARFORD RD &amp; E NORTH AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HARFORD RD &amp; E NORTH AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599357966599982,39.311936329699805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FORT SMALLWOOD RD &amp; FORT ARMISTEAD RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">FORT SMALLWOOD RD &amp; FORT ARMISTEAD RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.555976682499988,39.199913016499778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GARRISON BLVD &amp; WABASH AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">GARRISON BLVD &amp; WABASH AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683116725099993,39.3412090596998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WALTHER AVE &amp; GLENMORE AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">WALTHER AVE &amp; GLENMORE AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.542494290499988,39.353540221299795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W FRANKLIN ST &amp; CATHEDRAL ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W FRANKLIN ST &amp; CATHEDRAL ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.616872046999987,39.295065913099776,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PERRING PKWY &amp; E BELVEDERE AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PERRING PKWY &amp; E BELVEDERE AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.575725920999986,39.354962746699798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GWYNNS FLS &amp; GARRISON BLVD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">GWYNNS FLS &amp; GARRISON BLVD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676225018199972,39.313579290199797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REISTERSTOWN RD &amp; DRUID PARK DR</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">REISTERSTOWN RD &amp; DRUID PARK DR</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.65771098339998,39.325286799699803,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POTEE ST &amp; TALBOTT ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">POTEE ST &amp; TALBOTT ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.612210647799984,39.236485624599773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>YORK RD &amp; GITTINGS AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">YORK RD &amp; GITTINGS AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.609812127699982,39.370492958299792,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WABASH AVE &amp; W BELVEDERE AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">WABASH AVE &amp; W BELVEDERE AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.685042507999981,39.341671355299795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E NORTHERN PKWY &amp; YORK RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">E NORTHERN PKWY &amp; YORK RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.609922034099981,39.365146202399799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REISTERSTOWN RD &amp; PATTERSON AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">REISTERSTOWN RD &amp; PATTERSON AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.702520958499989,39.356182040099803,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PULASKI HWY &amp; E MONUMENT ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PULASKI HWY &amp; E MONUMENT ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.554250655199979,39.299798453199791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W FRANKLIN ST &amp; N FRANKLINTOWN RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W FRANKLIN ST &amp; N FRANKLINTOWN RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.662362487099969,39.293085745899788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S HANOVER ST &amp; E CROMWELL ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">S HANOVER ST &amp; E CROMWELL ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.614587279099979,39.262059549499789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REISTERSTOWN RD &amp; MENLO DR</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">REISTERSTOWN RD &amp; MENLO DR</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.696375815899984,39.351984998299784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RUSSELL ST &amp; BAYARD ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">RUSSELL ST &amp; BAYARD ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.628738506799991,39.273467553599787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIBERTY HEIGHTS AVE &amp; N DUKELAND ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">LIBERTY HEIGHTS AVE &amp; N DUKELAND ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.666633590299966,39.322639368399784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S HANOVER &amp; REEDBIRD AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">S HANOVER &amp; REEDBIRD AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.61374944169998,39.24987976789977,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W FAYETTE ST &amp; N LIBERTY ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W FAYETTE ST &amp; N LIBERTY ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.61766117599997,39.290503885899788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GWYNNS FLS &amp; GARRISON BLVD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">GWYNNS FLS &amp; GARRISON BLVD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676225018199972,39.313579290199797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOCH RAVEN BLVD &amp; WALKER AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">LOCH RAVEN BLVD &amp; WALKER AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.583179812199987,39.370060293899805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PULASKI HWY &amp; MORAVIA PARK DR</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PULASKI HWY &amp; MORAVIA PARK DR</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.53236586449998,39.308643714099794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HILLEN ST &amp; FORREST ST</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">HILLEN ST &amp; FORREST ST</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.605531769799981,39.296860160899797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PULASKI HWY &amp; NORTH POINT RD</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">PULASKI HWY &amp; NORTH POINT RD</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.539580016299965,39.304327589399797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N MONROE ST &amp; W LAFAYETTE AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">N MONROE ST &amp; W LAFAYETTE AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.647517495999978,39.298742687799788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W MOUNT ROYAL AVE &amp; W NORTH AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">W MOUNT ROYAL AVE &amp; W NORTH AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624730296299973,39.310767284199791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOUNT ROYAL TER &amp; W NORTH AVE</name>
+	<description>camera</description>
+	<ExtendedData><SchemaData schemaUrl="#c_and_s">
+		<SimpleData name="Name">MOUNT ROYAL TER &amp; W NORTH AVE</SimpleData>
+		<SimpleData name="Description">camera</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.625125578299986,39.310870644499786,0</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

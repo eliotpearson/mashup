@@ -1,0 +1,3058 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>schools</name>
+<Schema name="schools" id="schools">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="BLDG_NUM" type="float"></SimpleField>
+	<SimpleField name="PRG__NUM" type="float"></SimpleField>
+	<SimpleField name="NAME" type="string"></SimpleField>
+	<SimpleField name="GRADES" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="ZIPCODE" type="string"></SimpleField>
+	<SimpleField name="CATEGORY" type="string"></SimpleField>
+	<SimpleField name="TYPE" type="string"></SimpleField>
+	<SimpleField name="x_1" type="float"></SimpleField>
+	<SimpleField name="y_1" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Steuart Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Steuart Hill</SimpleData>
+		<SimpleData name="BLDG_NUM">4.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">4.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">30 S. Gilmor Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1413475.42503000004</SimpleData>
+		<SimpleData name="y_1">590354.09119700000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642666752786837,39.287114677348043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Langston Hughes</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Langston Hughes</SimpleData>
+		<SimpleData name="BLDG_NUM">5.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">5.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">5011 Arbutus Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1402829.17008000007</SimpleData>
+		<SimpleData name="y_1">610385.16301100003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.680031412387322,39.342217578180588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cecil</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Cecil</SimpleData>
+		<SimpleData name="BLDG_NUM">7.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">7.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2000 Cecil Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1423880.00395999989</SimpleData>
+		<SimpleData name="y_1">599897.26469600003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.605762388241118,39.313197546903154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Springs</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">City Springs</SimpleData>
+		<SimpleData name="BLDG_NUM">8.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">8.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">100 S. Caroline Street</SimpleData>
+		<SimpleData name="ZIPCODE">21231</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Conversion Charter</SimpleData>
+		<SimpleData name="x_1">1426294.50701000006</SimpleData>
+		<SimpleData name="y_1">591316.34255299997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.59736271963169,39.289610018002854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>James McHenry</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">James McHenry</SimpleData>
+		<SimpleData name="BLDG_NUM">10.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">10.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 6</SimpleData>
+		<SimpleData name="ADDRESS">31 S. Schroeder Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1416296.17693999992</SimpleData>
+		<SimpleData name="y_1">590479.76548599999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.632699405113087,39.287428976639397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eutaw-Marshburn</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Eutaw-Marshburn</SimpleData>
+		<SimpleData name="BLDG_NUM">11.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">11.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1624 Eutaw Place</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1416951.15003999998</SimpleData>
+		<SimpleData name="y_1">597302.01627699996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.6302877962125,39.306152000241752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakeland</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Lakeland</SimpleData>
+		<SimpleData name="BLDG_NUM">12.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">12.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2921 Stranden Road</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1412894.54298999999</SimpleData>
+		<SimpleData name="y_1">578226.32772299997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.6448856537897,39.253824216849246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tench Tilghman</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Tench Tilghman</SimpleData>
+		<SimpleData name="BLDG_NUM">13.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">13.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">600 N. Patterson Park Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21205</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1429661.80111999996</SimpleData>
+		<SimpleData name="y_1">594455.13515999995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.585415499503554,39.29818608892532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Stadium School</SimpleData>
+		<SimpleData name="BLDG_NUM">50.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">15.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1300 Gorsuch Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">MS</SimpleData>
+		<SimpleData name="TYPE">New Schools Initiative</SimpleData>
+		<SimpleData name="x_1">1425649.23598999996</SimpleData>
+		<SimpleData name="y_1">604216.44798699999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599442518838259,39.325034492321471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Johnston Square</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Johnston Square</SimpleData>
+		<SimpleData name="BLDG_NUM">16.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">16.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1101 Valley Street</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1424290.97393999994</SimpleData>
+		<SimpleData name="y_1">596395.48987499997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.604363559113125,39.303578694357761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Hilton</SimpleData>
+		<SimpleData name="BLDG_NUM">21.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">21.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3301 Carlisle Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1404606.95491000009</SimpleData>
+		<SimpleData name="y_1">601989.14371400001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.673851762701887,39.319149484646651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">George Washington</SimpleData>
+		<SimpleData name="BLDG_NUM">22.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">22.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">800 Scott Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1417311.87504000007</SimpleData>
+		<SimpleData name="y_1">588186.38818300003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.629143900222161,39.281121281213593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wolfe Street Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Wolfe Street Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">23.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">23.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5</SimpleData>
+		<SimpleData name="ADDRESS">245 S. Wolfe Street</SimpleData>
+		<SimpleData name="ZIPCODE">21231</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Conversion Charter</SimpleData>
+		<SimpleData name="x_1">1428407.89483999996</SimpleData>
+		<SimpleData name="y_1">590746.28234200005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.589905036812425,39.288019105431147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westside</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Westside</SimpleData>
+		<SimpleData name="BLDG_NUM">24.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">24.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2235 N. Fulton Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1412921.60101000010</SimpleData>
+		<SimpleData name="y_1">600222.88609199994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.644487601612653,39.314215073384027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Rayner Browne</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dr. Rayner Browne</SimpleData>
+		<SimpleData name="BLDG_NUM">25.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">25.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1000 N. Montford Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1429984.95106999995</SimpleData>
+		<SimpleData name="y_1">596252.42290400004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.584244729760442,39.30311643645134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commodore John Rodgers</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Commodore John Rodgers</SimpleData>
+		<SimpleData name="BLDG_NUM">27.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">27.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">100 N. Chester Street</SimpleData>
+		<SimpleData name="ZIPCODE">21231</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1428901.78887000005</SimpleData>
+		<SimpleData name="y_1">592775.96496200003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.588127764465824,39.293585431752831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William Pinderhughes</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">William Pinderhughes</SimpleData>
+		<SimpleData name="BLDG_NUM">157.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">28.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">701 Gold Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1414057.60496999999</SimpleData>
+		<SimpleData name="y_1">597345.99978499999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.640512667126146,39.306304483718797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matthew A. Henson</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Matthew A. Henson</SimpleData>
+		<SimpleData name="BLDG_NUM">29.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">29.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1600 N. Payson Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1411261.25787000009</SimpleData>
+		<SimpleData name="y_1">597505.60149999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650392528133779,39.306772481580502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coldstream Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Coldstream Park</SimpleData>
+		<SimpleData name="BLDG_NUM">31.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">31.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 6</SimpleData>
+		<SimpleData name="ADDRESS">1400 Exeter Hall Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1424800.11006000009</SimpleData>
+		<SimpleData name="y_1">603043.57795700000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.602462088651578,39.3218246343936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charles Carroll Barrister</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Charles Carroll Barrister</SimpleData>
+		<SimpleData name="BLDG_NUM">34.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">34.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1327 Washington Boulevard</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1415390.18203000003</SimpleData>
+		<SimpleData name="y_1">587704.89669199998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.635939346689909,39.27982059164043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Harlem Park</SimpleData>
+		<SimpleData name="BLDG_NUM">35.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">35.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1401 W. Lafayette Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1413888.04297000007</SimpleData>
+		<SimpleData name="y_1">594430.01349100005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.641152390210792,39.298300573427142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harford Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Harford Heights</SimpleData>
+		<SimpleData name="BLDG_NUM">36.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">37.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1919 N. Broadway</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1427125.58999000001</SimpleData>
+		<SimpleData name="y_1">600003.26645200001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.594290049432246,39.313449528247908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dallas F. Nicholas Sr.</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dallas F. Nicholas Sr.</SimpleData>
+		<SimpleData name="BLDG_NUM">39.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">39.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">201 E. 21St. Street</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1421668.34991999995</SimpleData>
+		<SimpleData name="y_1">599782.64353400003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.613580622159702,39.312908822437606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garrison</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Garrison</SimpleData>
+		<SimpleData name="BLDG_NUM">42.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">42.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3910 Barrington Road</SimpleData>
+		<SimpleData name="ZIPCODE">21207</SimpleData>
+		<SimpleData name="CATEGORY">MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1401622.25811999990</SimpleData>
+		<SimpleData name="y_1">606772.24569699995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.684342860248378,39.332310061396583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montebello</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Montebello</SimpleData>
+		<SimpleData name="BLDG_NUM">44.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">44.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2040 E. 32nd St</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">Contract</SimpleData>
+		<SimpleData name="TYPE">Edison</SimpleData>
+		<SimpleData name="x_1">1429611.41310000001</SimpleData>
+		<SimpleData name="y_1">605318.90181800001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.585419211766279,39.328012646760193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Federal Hill</SimpleData>
+		<SimpleData name="BLDG_NUM">45.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">45.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1040 William Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1422375.77009000001</SimpleData>
+		<SimpleData name="y_1">586898.35696700006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.611274341983048,39.277527173161801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hampstead Hill Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Hampstead Hill Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">47.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">47.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">500 S. Linwood Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Conversion Charter</SimpleData>
+		<SimpleData name="x_1">1432300.21809000010</SimpleData>
+		<SimpleData name="y_1">590054.90577199997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.576164875258613,39.286072140426903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northeast</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Northeast</SimpleData>
+		<SimpleData name="BLDG_NUM">49.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">49.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">5001 Moravia Road</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1439150.62991999998</SimpleData>
+		<SimpleData name="y_1">604040.00280100002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.551720576495796,39.324377738506762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abbottston</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Abbottston</SimpleData>
+		<SimpleData name="BLDG_NUM">50.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">50.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1300 Gorsuch Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1425649.23598999996</SimpleData>
+		<SimpleData name="y_1">604216.44798699999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599442518838259,39.325034492321471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waverly</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Waverly</SimpleData>
+		<SimpleData name="BLDG_NUM">51.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">51.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3400 Ellerslie Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1424235.62694000010</SimpleData>
+		<SimpleData name="y_1">606096.84120699996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.604410582587747,39.330213922820541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Margaret Brent</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Margaret Brent</SimpleData>
+		<SimpleData name="BLDG_NUM">53.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">53.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">100 E. 26Th Street</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1421213.25208000001</SimpleData>
+		<SimpleData name="y_1">602272.82293699996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.615151939032089,39.319750766751064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barclay</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Barclay</SimpleData>
+		<SimpleData name="BLDG_NUM">54.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">54.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2900 Barclay Street</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1422150.65506000002</SimpleData>
+		<SimpleData name="y_1">603696.82665099995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.611817221971251,39.323649396295053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hampden</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Hampden</SimpleData>
+		<SimpleData name="BLDG_NUM">55.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">55.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3608 Chestnut Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21211</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1417023.29686999996</SimpleData>
+		<SimpleData name="y_1">606752.97834699997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.629897431054232,39.332098349398443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Nathan A. Pitts-Ashburton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dr. Nathan A. Pitts-Ashburton</SimpleData>
+		<SimpleData name="BLDG_NUM">58.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">58.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3935 Hilton Rd</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1406379.47793999990</SimpleData>
+		<SimpleData name="y_1">606282.74700400000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.667531427794557,39.330919805387587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gwynns Falls</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Gwynns Falls</SimpleData>
+		<SimpleData name="BLDG_NUM">60.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">60.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2700 Gwynns Falls Parkway</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1407564.84006999992</SimpleData>
+		<SimpleData name="y_1">600553.52585099998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.663415691659822,39.315178580107997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>John Eager Howard</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">John Eager Howard</SimpleData>
+		<SimpleData name="BLDG_NUM">61.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">61.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2011 Linden Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1416374.75485999999</SimpleData>
+		<SimpleData name="y_1">599332.24581300002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.632295816170668,39.311732304846018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgecombe Circle</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Edgecombe Circle</SimpleData>
+		<SimpleData name="BLDG_NUM">62.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">62.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2835 Virginia Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1407729.53199999989</SimpleData>
+		<SimpleData name="y_1">611307.59587800002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.662693172385062,39.344701624397032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosemont</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Rosemont</SimpleData>
+		<SimpleData name="BLDG_NUM">63.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">63.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2777 Prestman Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Conversion Charter</SimpleData>
+		<SimpleData name="x_1">1407782.23497999995</SimpleData>
+		<SimpleData name="y_1">596596.94944600004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.662699011762356,39.304313744706981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liberty</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Liberty</SimpleData>
+		<SimpleData name="BLDG_NUM">64.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">64.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3901 Maine Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21207</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1401809.06516000000</SimpleData>
+		<SimpleData name="y_1">604511.16098000004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683710154199588,39.326100594766473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Royal</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Mount Royal</SimpleData>
+		<SimpleData name="BLDG_NUM">66.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">66.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">121 McMechen Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES/MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1418645.48490000004</SimpleData>
+		<SimpleData name="y_1">598358.26777399995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624284837204414,39.309032904446866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgewood</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Edgewood</SimpleData>
+		<SimpleData name="BLDG_NUM">67.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">67.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1900 Edgewood Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1403855.01514000003</SimpleData>
+		<SimpleData name="y_1">598319.49816600000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676555485647398,39.309081963756832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sarah M. Roach</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Sarah M. Roach</SimpleData>
+		<SimpleData name="BLDG_NUM">73.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">73.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3434 Old Frederick Road</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1404404.70597000001</SimpleData>
+		<SimpleData name="y_1">588770.21575600002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.674733098671723,39.282859282027928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calverton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Calverton</SimpleData>
+		<SimpleData name="BLDG_NUM">75.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">75.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1100 Whitmore Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1408913.13690999988</SimpleData>
+		<SimpleData name="y_1">595340.73378300003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.65871922020078,39.300853304617931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francis Scott Key</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Francis Scott Key</SimpleData>
+		<SimpleData name="BLDG_NUM">76.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">76.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1425 E. Fort Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">ES/MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1427084.31514000008</SimpleData>
+		<SimpleData name="y_1">583468.16468000005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.594695386383705,39.2680534084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Bend</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">North Bend</SimpleData>
+		<SimpleData name="BLDG_NUM">81.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">81.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">181 North Bend Road</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1395799.38098999998</SimpleData>
+		<SimpleData name="y_1">588947.14847300004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705131483618459,39.283425295586127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William Paca</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">William Paca</SimpleData>
+		<SimpleData name="BLDG_NUM">83.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">83.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">200 N. Lakewood Ave.</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1431302.48912000004</SimpleData>
+		<SimpleData name="y_1">593408.92957499996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.579635171828016,39.295293170219693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomas Johnson</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Thomas Johnson</SimpleData>
+		<SimpleData name="BLDG_NUM">84.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">84.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">100 E. Heath Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1422522.44008000009</SimpleData>
+		<SimpleData name="y_1">584517.76756800001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.610792088954639,39.270989583765257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Worthington</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Fort Worthington</SimpleData>
+		<SimpleData name="BLDG_NUM">85.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">85.00000000000</SimpleData>
+		<SimpleData name="GRADES">1 - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2701 E. Oliver Street</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1431490.49793000007</SimpleData>
+		<SimpleData name="y_1">597986.45716600004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.578896262867033,39.307858205180793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakewood</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Lakewood</SimpleData>
+		<SimpleData name="BLDG_NUM">86.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">86.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - K.</SimpleData>
+		<SimpleData name="ADDRESS">2625 Federal Street</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">PKK</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1430980.26896000002</SimpleData>
+		<SimpleData name="y_1">598268.67215300002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.580694815544192,39.30863946131506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Windsor Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Windsor Hills</SimpleData>
+		<SimpleData name="BLDG_NUM">87.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">87.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4001 Alto Road</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1402053.37504000007</SimpleData>
+		<SimpleData name="y_1">600953.28489400004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.682890232508768,39.316330278703909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lyndhurst</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Lyndhurst</SimpleData>
+		<SimpleData name="BLDG_NUM">88.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">88.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">621 Wildwood Parkway</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1402012.36495000008</SimpleData>
+		<SimpleData name="y_1">593196.50611600000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683130341069315,39.29503468097446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rognel Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Rognel Heights</SimpleData>
+		<SimpleData name="BLDG_NUM">89.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">89.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4300 Sidehill Road</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1399361.78986999998</SimpleData>
+		<SimpleData name="y_1">594300.73848700000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.69248260194405,39.298091211336278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Franklin Square</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Franklin Square</SimpleData>
+		<SimpleData name="BLDG_NUM">95.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">95.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1400 W. Lexington Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1414034.08697000006</SimpleData>
+		<SimpleData name="y_1">591838.04328200000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.64067239383192,39.291182813345088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Collington Square</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Collington Square</SimpleData>
+		<SimpleData name="BLDG_NUM">97.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">97.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1409 N. Collington Ave.</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Conversion Charter</SimpleData>
+		<SimpleData name="x_1">1429298.51511000004</SimpleData>
+		<SimpleData name="y_1">597787.75251100003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.586645845567887,39.307340175681553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samuel F.B. Morse</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Samuel F.B. Morse</SimpleData>
+		<SimpleData name="BLDG_NUM">98.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">98.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">424 S. Pulaski Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1411263.31889000000</SimpleData>
+		<SimpleData name="y_1">588406.24765200005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650508353969229,39.281790420943516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moravia Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Moravia Park</SimpleData>
+		<SimpleData name="BLDG_NUM">105.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">105.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">6201 Frankford Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1442148.02286999999</SimpleData>
+		<SimpleData name="y_1">601380.40247800003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.541172686452455,39.317035084530325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gilmor</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Gilmor</SimpleData>
+		<SimpleData name="BLDG_NUM">107.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">107.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1311 N. Gilmor Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1413519.23203000007</SimpleData>
+		<SimpleData name="y_1">596615.18070899998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642425340736224,39.304303851522114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samuel Coleridge-Taylor</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Samuel Coleridge-Taylor</SimpleData>
+		<SimpleData name="BLDG_NUM">122.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">122.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">507 W. Preston Street</SimpleData>
+		<SimpleData name="ZIPCODE">21201</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1418126.33994000009</SimpleData>
+		<SimpleData name="y_1">594654.89000999997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.626173109280728,39.298871269299973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bay-Brook</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Bay-Brook</SimpleData>
+		<SimpleData name="BLDG_NUM">124.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">124.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4301 Tenth Street</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1426049.16497999988</SimpleData>
+		<SimpleData name="y_1">567921.89098300005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.598592971404187,39.225383587301202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Furman L Templeton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Furman L Templeton</SimpleData>
+		<SimpleData name="BLDG_NUM">125.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">125.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1200 N. Pennsylvania Ave.</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1416941.30786999990</SimpleData>
+		<SimpleData name="y_1">594951.67025600001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.630356209565079,39.299699318230303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Booker T. Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Booker T. Washington</SimpleData>
+		<SimpleData name="BLDG_NUM">130.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">130.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1301 Mcculloh Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1417641.19393000007</SimpleData>
+		<SimpleData name="y_1">596121.11509600002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627866267120439,39.302902182058013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walter P. Carter</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Walter P. Carter</SimpleData>
+		<SimpleData name="BLDG_NUM">134.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">134.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">820 E. 43Rd Street</SimpleData>
+		<SimpleData name="ZIPCODE">21212</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1424294.66192000010</SimpleData>
+		<SimpleData name="y_1">610737.30797600001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.604130750930878,39.342953309670207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Robert W. Coleman</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Robert W. Coleman</SimpleData>
+		<SimpleData name="BLDG_NUM">142.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">142.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2400 Windsor Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1409856.05989999999</SimpleData>
+		<SimpleData name="y_1">599764.39061799995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655328257351528,39.312988570161473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>James Mosher</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">James Mosher</SimpleData>
+		<SimpleData name="BLDG_NUM">144.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">144.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2400 W. Mosher Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1409754.15688999998</SimpleData>
+		<SimpleData name="y_1">594961.32607700001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655752420210305,39.299802982529606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alexander Hamilton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Alexander Hamilton</SimpleData>
+		<SimpleData name="BLDG_NUM">145.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">145.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">800 Poplar Grove Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1406863.47992000007</SimpleData>
+		<SimpleData name="y_1">594148.58196800004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.665977372300787,39.297601099965547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary Ann Winterling</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Mary Ann Winterling</SimpleData>
+		<SimpleData name="BLDG_NUM">150.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">150.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">220 N. Bentalou Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1410290.97995999991</SimpleData>
+		<SimpleData name="y_1">591995.94355600001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.65389524016399,39.291656031231547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cherry Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Cherry Hill</SimpleData>
+		<SimpleData name="BLDG_NUM">159.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">159.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">801 Bridgeview Road</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1418899.61201999988</SimpleData>
+		<SimpleData name="y_1">576151.33154499996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.623710238533405,39.248061253261213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Carter Godwin Woodson</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dr. Carter Godwin Woodson</SimpleData>
+		<SimpleData name="BLDG_NUM">160.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">160.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2501 Seabury Road</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1419220.43387999991</SimpleData>
+		<SimpleData name="y_1">577716.44324399997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.622554566819147,39.252354640725898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patapsco</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Patapsco</SimpleData>
+		<SimpleData name="BLDG_NUM">163.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">163.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">844 Roundview Road</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1418759.29208999989</SimpleData>
+		<SimpleData name="y_1">575593.55903799995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624213815581555,39.246531471027431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arundel</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Arundel</SimpleData>
+		<SimpleData name="BLDG_NUM">164.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">164.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2400 Round Road</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1417789.83504000003</SimpleData>
+		<SimpleData name="y_1">577681.51549200004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627606820508916,39.252274877527896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George W.F. McMechen</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">George W.F. McMechen</SimpleData>
+		<SimpleData name="BLDG_NUM">177.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">177.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">4411 Garrison Boulevard</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">SPED</SimpleData>
+		<SimpleData name="TYPE">SPED</SimpleData>
+		<SimpleData name="x_1">1401815.83811999997</SimpleData>
+		<SimpleData name="y_1">608609.20790200005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683636009932087,39.337351497778521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Excel Academy @ Francis M. Wood</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Excel Academy @ Francis M. Wood</SimpleData>
+		<SimpleData name="BLDG_NUM">413.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">178.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1001 W. Saratoga Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">Alt</SimpleData>
+		<SimpleData name="TYPE">Alt</SimpleData>
+		<SimpleData name="x_1">1415813.35901000001</SimpleData>
+		<SimpleData name="y_1">592124.01613500004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.634381916024068,39.291948548160399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southside Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Southside Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">181.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">181.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2700 Seamon Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1419615.97607000009</SimpleData>
+		<SimpleData name="y_1">577890.15713499999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.621155277451976,39.252827074510805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dickey Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dickey Hill</SimpleData>
+		<SimpleData name="BLDG_NUM">201.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">201.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">5025 Dickey Hill Road</SimpleData>
+		<SimpleData name="ZIPCODE">21207</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1396123.87508999999</SimpleData>
+		<SimpleData name="y_1">599158.49812899996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.703868097708678,39.311457438265002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maree Garnett Farring</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Maree Garnett Farring</SimpleData>
+		<SimpleData name="BLDG_NUM">203.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">203.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">300 Pontiac Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1423655.56609000009</SimpleData>
+		<SimpleData name="y_1">572077.34100500005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.60697891163457,39.236821046588354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary E. Rodman</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Mary E. Rodman</SimpleData>
+		<SimpleData name="BLDG_NUM">204.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">204.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3510 W. Mulberry Street</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1403906.43005999993</SimpleData>
+		<SimpleData name="y_1">592116.94036200002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676451473499711,39.292052516832392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodhome</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Woodhome</SimpleData>
+		<SimpleData name="BLDG_NUM">205.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">205.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">7300 Moyer Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21234</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1442236.77007000009</SimpleData>
+		<SimpleData name="y_1">619552.62892799999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.540535746515062,39.36692423657739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Furley</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Furley</SimpleData>
+		<SimpleData name="BLDG_NUM">206.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">206.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">4633 Furley Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1438915.60315999994</SimpleData>
+		<SimpleData name="y_1">605569.26220999996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552524848977825,39.328579385229304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curtis Bay</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Curtis Bay</SimpleData>
+		<SimpleData name="BLDG_NUM">207.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">207.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4301 West Bay Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1427636.09094000002</SimpleData>
+		<SimpleData name="y_1">568236.75452600000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.592986378673601,39.226228760012162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hazelwood</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Hazelwood</SimpleData>
+		<SimpleData name="BLDG_NUM">210.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">210.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4517 Hazelwood Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1442864.14513000008</SimpleData>
+		<SimpleData name="y_1">609250.76961099997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.538500982388754,39.338632724942904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gardenville</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Gardenville</SimpleData>
+		<SimpleData name="BLDG_NUM">211.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">211.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">5300 Belair Road</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1438894.89715999993</SimpleData>
+		<SimpleData name="y_1">609297.32594799995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552533446418892,39.338814794598278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garrett Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Garrett Heights</SimpleData>
+		<SimpleData name="BLDG_NUM">212.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">212.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2800 Ailsa Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1434067.21915000002</SimpleData>
+		<SimpleData name="y_1">613151.00492099999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.569537508083172,39.349458496054737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Govans</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Govans</SimpleData>
+		<SimpleData name="BLDG_NUM">213.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">213.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">5801 York Road</SimpleData>
+		<SimpleData name="ZIPCODE">21212</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1423133.61502999999</SimpleData>
+		<SimpleData name="y_1">617168.69045500003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.608138280579539,39.360623907605579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guilford</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Guilford</SimpleData>
+		<SimpleData name="BLDG_NUM">214.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">214.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4520 York Road</SimpleData>
+		<SimpleData name="ZIPCODE">21212</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1422435.89299999992</SimpleData>
+		<SimpleData name="y_1">611103.78723000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.610697319799613,39.343981397863764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highlandtown #215</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Highlandtown #215</SimpleData>
+		<SimpleData name="BLDG_NUM">215.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">215.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3223 E. Pratt Street</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1433869.31206999999</SimpleData>
+		<SimpleData name="y_1">591425.37350300001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.57059867605615,39.289814585297414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Belmont</SimpleData>
+		<SimpleData name="BLDG_NUM">217.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">217.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1406 N. Ellamont Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1405436.08284000005</SimpleData>
+		<SimpleData name="y_1">596355.90826199995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.670992931327305,39.303675481235828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yorkwood</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Yorkwood</SimpleData>
+		<SimpleData name="BLDG_NUM">219.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">219.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">5931 Yorkwood Road</SimpleData>
+		<SimpleData name="ZIPCODE">21239</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1430747.59095000010</SimpleData>
+		<SimpleData name="y_1">618266.16890299995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.581192878317836,39.363544120061647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morrell Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Morrell Park</SimpleData>
+		<SimpleData name="BLDG_NUM">220.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">220.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2601 Tolley Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1411207.09394000005</SimpleData>
+		<SimpleData name="y_1">581526.07178000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650799953517222,39.262901545061425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Mount Washington</SimpleData>
+		<SimpleData name="BLDG_NUM">221.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">221.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1801 Sulgrave Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21209</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1409894.51487000007</SimpleData>
+		<SimpleData name="y_1">619003.99748000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.654935321546489,39.365809289158065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pimlico</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Pimlico</SimpleData>
+		<SimpleData name="BLDG_NUM">223.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">223.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4849 Pimlico Road</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1406305.65984999994</SimpleData>
+		<SimpleData name="y_1">612409.36073499999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.667713548549855,39.347740781329271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grove Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Grove Park</SimpleData>
+		<SimpleData name="BLDG_NUM">224.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">224.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">5545 Kennison Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1397396.31513000000</SimpleData>
+		<SimpleData name="y_1">610364.29199000006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.699240604849734,39.342210988443725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westport</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Westport</SimpleData>
+		<SimpleData name="BLDG_NUM">225.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">225.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2401 Nevada Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1414929.52514000004</SimpleData>
+		<SimpleData name="y_1">581253.11268000002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.637657119624166,39.262112306603065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Violetville</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Violetville</SimpleData>
+		<SimpleData name="BLDG_NUM">226.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">226.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1207 Pine Heights Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1404726.86806000001</SimpleData>
+		<SimpleData name="y_1">583189.78301899997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.673665457979624,39.26753509104951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>John Ruhrah</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">John Ruhrah</SimpleData>
+		<SimpleData name="BLDG_NUM">228.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">228.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">701 S. Rappolla Street</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1439053.09205000009</SimpleData>
+		<SimpleData name="y_1">589418.24923700001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552318817755108,39.284235719852902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holabird</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Holabird</SimpleData>
+		<SimpleData name="BLDG_NUM">229.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">229.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1500 Imla Street</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1442943.67286000005</SimpleData>
+		<SimpleData name="y_1">586359.67070799996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.538628842319355,39.275785295365424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brehms Lane</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Brehms Lane</SimpleData>
+		<SimpleData name="BLDG_NUM">231.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">231.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3536 Brehms Lane</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1435043.46392000001</SimpleData>
+		<SimpleData name="y_1">602941.84850199998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.566256991122358,39.321417297954675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomas Jefferson</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Thomas Jefferson</SimpleData>
+		<SimpleData name="BLDG_NUM">232.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">232.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">605 Dryden Drive</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1397913.02998000011</SimpleData>
+		<SimpleData name="y_1">593359.46215499996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.697612813547266,39.295520246236457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roland Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Roland Park</SimpleData>
+		<SimpleData name="BLDG_NUM">233.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">233.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">5207 Roland Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21210</SimpleData>
+		<SimpleData name="CATEGORY">ES/MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1415890.22794999997</SimpleData>
+		<SimpleData name="y_1">616016.09203800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.633771667935648,39.357542117064739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arlington</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Arlington</SimpleData>
+		<SimpleData name="BLDG_NUM">234.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">234.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3705 W. Rogers Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1401680.58314000000</SimpleData>
+		<SimpleData name="y_1">613370.59536100004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.68405593738207,39.350424867344366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glenmount</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Glenmount</SimpleData>
+		<SimpleData name="BLDG_NUM">235.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">235.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">6211 Walther Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1442032.83805999998</SimpleData>
+		<SimpleData name="y_1">614088.95219200000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.54135412512872,39.351927051976581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hamilton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Hamilton</SimpleData>
+		<SimpleData name="BLDG_NUM">236.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">236.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">6101 Old Harford Road</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1437414.78004000010</SimpleData>
+		<SimpleData name="y_1">616938.31197899999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.557635504532684,39.359812276524551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highlandtown #237</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Highlandtown #237</SimpleData>
+		<SimpleData name="BLDG_NUM">237.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">237.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8</SimpleData>
+		<SimpleData name="ADDRESS">231 S. Eaton Street</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1435442.58385000005</SimpleData>
+		<SimpleData name="y_1">591215.86801700003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.565043726779393,39.28921894591398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benjamin Franklin #239 @ Masonville Cove</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Benjamin Franklin #239 @ Masonville Cove</SimpleData>
+		<SimpleData name="BLDG_NUM">239.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">239.00000000000</SimpleData>
+		<SimpleData name="GRADES">9-11</SimpleData>
+		<SimpleData name="ADDRESS">1201 Cambria Street</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1427478.55811999994</SimpleData>
+		<SimpleData name="y_1">570583.36400599999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.593505570537999,39.23267334667193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Graceland Park / O'Donnell Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Graceland Park / O'Donnell Heights</SimpleData>
+		<SimpleData name="BLDG_NUM">240.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">240.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">6300 O'Donnell Street</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1442560.64605999994</SimpleData>
+		<SimpleData name="y_1">588750.96710699995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.539939262780422,39.282355838811817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fallstaff</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Fallstaff</SimpleData>
+		<SimpleData name="BLDG_NUM">241.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">241.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3801 Fallstaff Road</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1395623.09788000002</SimpleData>
+		<SimpleData name="y_1">617609.23484900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705427512578865,39.362117349359146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwood</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Northwood</SimpleData>
+		<SimpleData name="BLDG_NUM">242.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">242.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">5201 Loch Raven Boulevard</SimpleData>
+		<SimpleData name="ZIPCODE">21239</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1428629.46494000009</SimpleData>
+		<SimpleData name="y_1">614319.04195500002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.58874704644748,39.352734070233026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Armistead Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Armistead Garden</SimpleData>
+		<SimpleData name="BLDG_NUM">243.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">243.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">5001 E. Eager Street</SimpleData>
+		<SimpleData name="ZIPCODE">21205</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1438888.99986000010</SimpleData>
+		<SimpleData name="y_1">596884.77301700006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552769293123632,39.304736977439156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leith Walk</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Leith Walk</SimpleData>
+		<SimpleData name="BLDG_NUM">245.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">245.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1235 Sherwood Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21239</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1427837.52000000002</SimpleData>
+		<SimpleData name="y_1">618897.26901900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.591475079007935,39.365312949396248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beechfield</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Beechfield</SimpleData>
+		<SimpleData name="BLDG_NUM">246.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">246.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">301 S. Beechfield Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1399110.74903999991</SimpleData>
+		<SimpleData name="y_1">587979.89154900005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.693444657177906,39.280739754474951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cross Country</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Cross Country</SimpleData>
+		<SimpleData name="BLDG_NUM">247.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">247.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">6100 Cross Country Boulevard</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1400516.13009000011</SimpleData>
+		<SimpleData name="y_1">617757.27753199998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.688120575054938,39.362479167898492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinclair Lane</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Sinclair Lane</SimpleData>
+		<SimpleData name="BLDG_NUM">248.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">248.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3880 Sinclair Lane</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1436599.98999999999</SimpleData>
+		<SimpleData name="y_1">600627.58508600004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.56079458515039,39.315043187995286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medfield Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Medfield Heights</SimpleData>
+		<SimpleData name="BLDG_NUM">249.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">249.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">4300 Buchanan Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21211</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1413438.25909999991</SimpleData>
+		<SimpleData name="y_1">609912.05929899996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642527481851332,39.340810629569184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Bernard Harris Sr.</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dr. Bernard Harris Sr.</SimpleData>
+		<SimpleData name="BLDG_NUM">250.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">250.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">1400 N. Caroline Street</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1425899.82997000008</SimpleData>
+		<SimpleData name="y_1">597547.61027399998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.59866034957281,39.306722512421771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Callaway</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Callaway</SimpleData>
+		<SimpleData name="BLDG_NUM">251.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">251.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3701 Fernhill Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1403297.00411999994</SimpleData>
+		<SimpleData name="y_1">608213.90521500004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.678404337242469,39.336252008290849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Martin Luther King Jr</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Dr. Martin Luther King Jr</SimpleData>
+		<SimpleData name="BLDG_NUM">254.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">254.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">3750 Greenspring Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21211</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1409392.82492999989</SimpleData>
+		<SimpleData name="y_1">607094.29163999995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.656868066254404,39.333117242355293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calvin  M. Rodwell</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Calvin  M. Rodwell</SimpleData>
+		<SimpleData name="BLDG_NUM">256.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">256.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">3501 Hillsdale Road</SimpleData>
+		<SimpleData name="ZIPCODE">21207</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1398879.19011999993</SimpleData>
+		<SimpleData name="y_1">606038.92072000005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.694048859171062,39.33032239666548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frederick</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Frederick</SimpleData>
+		<SimpleData name="BLDG_NUM">260.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">260.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2501 Frederick Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1409490.28503999999</SimpleData>
+		<SimpleData name="y_1">588606.21214700001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.656769265309237,39.282357889662777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lockerman Bundy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Lockerman Bundy</SimpleData>
+		<SimpleData name="BLDG_NUM">261.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">261.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">301 N. Pulaski Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">ES</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1411503.93094000011</SimpleData>
+		<SimpleData name="y_1">592301.52496600000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.64960552948628,39.292482293725818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Empowerment Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Empowerment Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">202.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">262.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">851 Braddish Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1408809.46913999994</SimpleData>
+		<SimpleData name="y_1">594093.31567399995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.659102004619172,39.297429617908996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William C. March</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">William C. March</SimpleData>
+		<SimpleData name="BLDG_NUM">36.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">263.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2050 N. Wolfe st</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">MS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1427125.58999000001</SimpleData>
+		<SimpleData name="y_1">600003.26645200001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.594290049432246,39.313449528247908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William S. Baer School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">William S. Baer School</SimpleData>
+		<SimpleData name="BLDG_NUM">301.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">301.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2001 N. Warwick Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">SPED</SimpleData>
+		<SimpleData name="TYPE">SPED</SimpleData>
+		<SimpleData name="x_1">1409472.44387000008</SimpleData>
+		<SimpleData name="y_1">598992.43579699995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.656694307719732,39.310873167752405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Claremont School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Claremont School</SimpleData>
+		<SimpleData name="BLDG_NUM">307.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">307.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">5301 Erdman Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21205</SimpleData>
+		<SimpleData name="CATEGORY">SPED</SimpleData>
+		<SimpleData name="TYPE">SPED</SimpleData>
+		<SimpleData name="x_1">1438618.44495999999</SimpleData>
+		<SimpleData name="y_1">595589.94981999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.553747750228823,39.301185734916231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lois T. Murray</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Lois T. Murray</SimpleData>
+		<SimpleData name="BLDG_NUM">313.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">313.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1600 Arlington Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21239</SimpleData>
+		<SimpleData name="CATEGORY">SPED</SimpleData>
+		<SimpleData name="TYPE">SPED</SimpleData>
+		<SimpleData name="x_1">1428971.39207000006</SimpleData>
+		<SimpleData name="y_1">612225.75020899996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.58757136365962,39.346982871948498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sharp Leadenhall</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Sharp Leadenhall</SimpleData>
+		<SimpleData name="BLDG_NUM">314.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">314.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">150 W. West Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">SPED</SimpleData>
+		<SimpleData name="TYPE">SPED</SimpleData>
+		<SimpleData name="x_1">1420226.87510999991</SimpleData>
+		<SimpleData name="y_1">586515.94008099998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.618870878989298,39.276502130885213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Midtown Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Midtown Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">321.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">321.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1398 Mount Royal Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1419255.55291000009</SimpleData>
+		<SimpleData name="y_1">597965.81186599995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.622134576381796,39.307948519662148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Song Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">New Song Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">322.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">322.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">1530 Presstman Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">PK8</SimpleData>
+		<SimpleData name="TYPE">New Schools Initiative</SimpleData>
+		<SimpleData name="x_1">1413360.87703000009</SimpleData>
+		<SimpleData name="y_1">597119.55634100002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642977965350809,39.305690298395099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Crossroads School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">The Crossroads School</SimpleData>
+		<SimpleData name="BLDG_NUM">323.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">323.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">802 South Caroline Street</SimpleData>
+		<SimpleData name="ZIPCODE">21231</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1426359.78312000004</SimpleData>
+		<SimpleData name="y_1">588480.06574600004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.597176313247076,39.281822302017588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kipp Ujima Village Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Kipp Ujima Village Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">82.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">324.00000000000</SimpleData>
+		<SimpleData name="GRADES">5 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4701 Greenspring Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21209</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1409103.91014999989</SimpleData>
+		<SimpleData name="y_1">611582.66980300006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.657829974412806,39.345442778613481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ConneXions Community Leadership Acad</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">ConneXions Community Leadership Acad</SimpleData>
+		<SimpleData name="BLDG_NUM">79.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">325.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 12</SimpleData>
+		<SimpleData name="ADDRESS">2801 N. Dukeland St.</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1407306.76184999989</SimpleData>
+		<SimpleData name="y_1">601539.21876099997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.664315019295842,39.317887366533249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Neighbors Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">City Neighbors Charter School</SimpleData>
+		<SimpleData name="BLDG_NUM">326.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">326.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">4301 Raspe Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1443995.46995999990</SimpleData>
+		<SimpleData name="y_1">612953.37506700004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.534434427406779,39.34878214983862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patterson Park Public Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Patterson Park Public Charter School</SimpleData>
+		<SimpleData name="BLDG_NUM">327.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">327.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 8.</SimpleData>
+		<SimpleData name="ADDRESS">27 North Lakewood Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1431554.36098999996</SimpleData>
+		<SimpleData name="y_1">592384.78431400005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.578761919948974,39.292478227414989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southwest Baltimore Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Southwest Baltimore Charter School</SimpleData>
+		<SimpleData name="BLDG_NUM">162.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">328.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-8</SimpleData>
+		<SimpleData name="ADDRESS">1300 Herkimer Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1414679.78515999997</SimpleData>
+		<SimpleData name="y_1">588414.34835700004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.638438956140803,39.281776130943165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Inner Harbor East Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Inner Harbor East Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">139.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">329.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-8</SimpleData>
+		<SimpleData name="ADDRESS">200 N. Central Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1425405.30012000003</SimpleData>
+		<SimpleData name="y_1">592925.93185399997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.60047945631355,39.294039822484073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwood Appold Community Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Northwood Appold Community Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">330.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">330.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-5</SimpleData>
+		<SimpleData name="ADDRESS">4417 Loch Raven Boulevard</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1427787.58013999998</SimpleData>
+		<SimpleData name="y_1">611766.82232200005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.591764487445602,39.345737529838885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATHS (MD Academy of Technology &amp; Health Sciences)</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">MATHS (MD Academy of Technology &amp; Health Sciences)</SimpleData>
+		<SimpleData name="BLDG_NUM">82.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">331.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 12</SimpleData>
+		<SimpleData name="ADDRESS">4701 Greenspring Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21209</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1409103.91014999989</SimpleData>
+		<SimpleData name="y_1">611582.66980300006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.657829974412806,39.345442778613481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Green School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">The Green School</SimpleData>
+		<SimpleData name="BLDG_NUM">332.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">332.00000000000</SimpleData>
+		<SimpleData name="GRADES">K - 5.</SimpleData>
+		<SimpleData name="ADDRESS">2800 Brendan Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1433313.83089000010</SimpleData>
+		<SimpleData name="y_1">603975.89958299999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.572353505782814,39.324278626698323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Independence School Local I</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Independence School Local I</SimpleData>
+		<SimpleData name="BLDG_NUM">333.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">333.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1250 W. 36th Street</SimpleData>
+		<SimpleData name="ZIPCODE">21211</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1415174.08239999996</SimpleData>
+		<SimpleData name="y_1">606314.69608699996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.636440921029845,39.330915472428451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bluford Drew Jemison MST Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Bluford Drew Jemison MST Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">26.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">334.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8</SimpleData>
+		<SimpleData name="ADDRESS">1130 N. Caroline Street</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1425774.87615999999</SimpleData>
+		<SimpleData name="y_1">596379.47678400006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599120053896812,39.303516957596315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore International Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore International Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">335.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">335.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-8</SimpleData>
+		<SimpleData name="ADDRESS">3515 Taylor Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21236</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1444863.04105999996</SimpleData>
+		<SimpleData name="y_1">618489.01064899995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.531266188891635,39.363967525285538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Montessori Public Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Montessori Public Charter School</SimpleData>
+		<SimpleData name="BLDG_NUM">32.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">336.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K - 6.</SimpleData>
+		<SimpleData name="ADDRESS">1600 Guilford Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1421986.22198999999</SimpleData>
+		<SimpleData name="y_1">598010.12870600005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.612483782783116,39.308038761588008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Afya Public Chater School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Afya Public Chater School</SimpleData>
+		<SimpleData name="BLDG_NUM">332.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">337.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-8</SimpleData>
+		<SimpleData name="ADDRESS">2800 Brendan Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1433313.83089000010</SimpleData>
+		<SimpleData name="y_1">603975.89958299999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.572353505782814,39.324278626698323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Academy of Math, Science and Technology</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Friendship Academy of Math, Science and Technology</SimpleData>
+		<SimpleData name="BLDG_NUM">230.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">338.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-11</SimpleData>
+		<SimpleData name="ADDRESS">801 S Highland Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1434528.52499000006</SimpleData>
+		<SimpleData name="y_1">588947.29643800005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.568311033993098,39.283002563144031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Academy of Engineering &amp; Technology</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Friendship Academy of Engineering &amp; Technology</SimpleData>
+		<SimpleData name="BLDG_NUM">93.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">339.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-11</SimpleData>
+		<SimpleData name="ADDRESS">2500 E. Northern Pkwy</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1436603.96998000005</SimpleData>
+		<SimpleData name="y_1">619432.50449700002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.560460509007939,39.366670593374671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REACH! Partnership School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">REACH! Partnership School</SimpleData>
+		<SimpleData name="BLDG_NUM">40.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">341.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-11</SimpleData>
+		<SimpleData name="ADDRESS">2801 St Lo Drive</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1429747.65987999993</SimpleData>
+		<SimpleData name="y_1">601798.01614399999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.584994164966929,39.318344560994575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KASA Knowledge, Achievement,  Success Acad</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">KASA Knowledge, Achievement,  Success Acad</SimpleData>
+		<SimpleData name="BLDG_NUM">80.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">342.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-11</SimpleData>
+		<SimpleData name="ADDRESS">201 North Bend Rd</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1395730.30403000000</SimpleData>
+		<SimpleData name="y_1">589490.62442000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705369320051517,39.284918014649705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore CIVITAS</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore CIVITAS</SimpleData>
+		<SimpleData name="BLDG_NUM">411.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">343.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-11</SimpleData>
+		<SimpleData name="ADDRESS">2000 Edgewood St</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1403857.98592999997</SimpleData>
+		<SimpleData name="y_1">598753.35195699998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676539553939008,39.310273064867147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Rising Star Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Rising Star Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">457.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">344.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 8.</SimpleData>
+		<SimpleData name="ADDRESS">2200 Sinclair Lane</SimpleData>
+		<SimpleData name="ZIPCODE">21212</SimpleData>
+		<SimpleData name="CATEGORY">Alt</SimpleData>
+		<SimpleData name="TYPE">Alt</SimpleData>
+		<SimpleData name="x_1">1429154.83495000005</SimpleData>
+		<SimpleData name="y_1">600457.43647600000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.587110931644702,39.314671450312559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Hope Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">New Hope Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">451.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">345.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">900 Druid Hill Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21201</SimpleData>
+		<SimpleData name="CATEGORY">SPED</SimpleData>
+		<SimpleData name="TYPE">SPED</SimpleData>
+		<SimpleData name="x_1">1418503.73387000011</SimpleData>
+		<SimpleData name="y_1">594512.25315600005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624841648060837,39.298475413962976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Neighbors Hamilton</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">City Neighbors Hamilton</SimpleData>
+		<SimpleData name="BLDG_NUM">41.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">346.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-4</SimpleData>
+		<SimpleData name="ADDRESS">5609 Sefton Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1438212.71085999999</SimpleData>
+		<SimpleData name="y_1">613530.85094599996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.554872337944545,39.35044675010208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KIPP Harmony</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">KIPP Harmony</SimpleData>
+		<SimpleData name="BLDG_NUM">38.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">347.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-1</SimpleData>
+		<SimpleData name="ADDRESS">2810 Shirley Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1407057.99888999993</SimpleData>
+		<SimpleData name="y_1">607381.85865099996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.665118512594134,39.333930545582483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Leadership School for Young Women</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Leadership School for Young Women</SimpleData>
+		<SimpleData name="BLDG_NUM">348.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">348.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-7</SimpleData>
+		<SimpleData name="ADDRESS">128 W. Franklin St</SimpleData>
+		<SimpleData name="ZIPCODE">21201</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1420437.15816000011</SimpleData>
+		<SimpleData name="y_1">593321.85363400006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.618027477127924,39.295185197114492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NACA Freedom and Democracy Academy II</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">NACA Freedom and Democracy Academy II</SimpleData>
+		<SimpleData name="BLDG_NUM">93.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">349.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-7</SimpleData>
+		<SimpleData name="ADDRESS">2500 E Northern Pkwy</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1436603.96998000005</SimpleData>
+		<SimpleData name="y_1">619432.50449700002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.560460509007939,39.366670593374671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bluford Drew Jemison STEM Academy West</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Bluford Drew Jemison STEM Academy West</SimpleData>
+		<SimpleData name="BLDG_NUM">411.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">364.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-7, 9</SimpleData>
+		<SimpleData name="ADDRESS">2000 Edgewood St</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1403857.98592999997</SimpleData>
+		<SimpleData name="y_1">598753.35195699998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676539553939008,39.310273064867147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Liberation Diploma Plus HS</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Liberation Diploma Plus HS</SimpleData>
+		<SimpleData name="BLDG_NUM">79.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">365.00000000000</SimpleData>
+		<SimpleData name="GRADES">N/A</SimpleData>
+		<SimpleData name="ADDRESS">2801 N. Dukeland Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">Alt</SimpleData>
+		<SimpleData name="x_1">1407306.76184999989</SimpleData>
+		<SimpleData name="y_1">601539.21876099997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.664315019295842,39.317887366533249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Antioch Diploma Plus HS</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Antioch Diploma Plus HS</SimpleData>
+		<SimpleData name="BLDG_NUM">456.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">366.00000000000</SimpleData>
+		<SimpleData name="GRADES">N/A</SimpleData>
+		<SimpleData name="ADDRESS">2555 Harford Rd</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">Alt</SimpleData>
+		<SimpleData name="x_1">1427475.69001000002</SimpleData>
+		<SimpleData name="y_1">601498.83268700005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.593029144056871,39.31755125104894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Community HS</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Community HS</SimpleData>
+		<SimpleData name="BLDG_NUM">255.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">367.00000000000</SimpleData>
+		<SimpleData name="GRADES">N/A</SimpleData>
+		<SimpleData name="ADDRESS">6820 Fait Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">Alt</SimpleData>
+		<SimpleData name="x_1">1445196.82483999990</SimpleData>
+		<SimpleData name="y_1">589976.12541700003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.530604205841911,39.285682625493244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Baltimore Community School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">East Baltimore Community School</SimpleData>
+		<SimpleData name="BLDG_NUM">101.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">368.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-2, 5-6</SimpleData>
+		<SimpleData name="ADDRESS">1101 N Wolfe St.</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">Contract</SimpleData>
+		<SimpleData name="TYPE">Contract</SimpleData>
+		<SimpleData name="x_1">1428078.23702999996</SimpleData>
+		<SimpleData name="y_1">596498.22851499997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.590978660343538,39.303814933513337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tunbridge Public Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Tunbridge Public Charter School</SimpleData>
+		<SimpleData name="BLDG_NUM">373.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">373.00000000000</SimpleData>
+		<SimpleData name="GRADES">K-3</SimpleData>
+		<SimpleData name="ADDRESS">5502 York Road</SimpleData>
+		<SimpleData name="ZIPCODE">21212</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1422533.32391000004</SimpleData>
+		<SimpleData name="y_1">616053.54832800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.61027811053637,39.357569436028882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vanguard Collegiate MS</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Vanguard Collegiate MS</SimpleData>
+		<SimpleData name="BLDG_NUM">170.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">374.00000000000</SimpleData>
+		<SimpleData name="GRADES">6</SimpleData>
+		<SimpleData name="ADDRESS">5001 Sinclair Lane</SimpleData>
+		<SimpleData name="ZIPCODE">21206</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1440763.15687000006</SimpleData>
+		<SimpleData name="y_1">602617.20938699995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.546045647306471,39.320449671307507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Neighbors HS</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">City Neighbors HS</SimpleData>
+		<SimpleData name="BLDG_NUM">41.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">376.00000000000</SimpleData>
+		<SimpleData name="GRADES">9</SimpleData>
+		<SimpleData name="ADDRESS">5609 Sefton Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1438212.71085999999</SimpleData>
+		<SimpleData name="y_1">613530.85094599996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.554872337944545,39.35044675010208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green Street Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Green Street Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">80.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">377.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-7</SimpleData>
+		<SimpleData name="ADDRESS">201 North Bend Rd</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1395730.30403000000</SimpleData>
+		<SimpleData name="y_1">589490.62442000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705369320051517,39.284918014649705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore IT Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore IT Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">46.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">378.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-8</SimpleData>
+		<SimpleData name="ADDRESS">900 Woodbourne Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21212</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1425133.26884000003</SimpleData>
+		<SimpleData name="y_1">615336.94411799998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.601094603863785,39.355571227707379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edmondson Westside</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Edmondson Westside</SimpleData>
+		<SimpleData name="BLDG_NUM">400.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">400.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">501 Athol Ave</SimpleData>
+		<SimpleData name="ZIPCODE">21229</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional W/ CTE</SimpleData>
+		<SimpleData name="x_1">1400619.86216000002</SimpleData>
+		<SimpleData name="y_1">591828.41764500004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.688067054802517,39.291291790083704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwestern</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Northwestern</SimpleData>
+		<SimpleData name="BLDG_NUM">401.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">401.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">6900 Park Heights Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21215</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1395860.70894999988</SimpleData>
+		<SimpleData name="y_1">618481.19078299997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.704577175062042,39.364509127426786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Polytechnic Institute</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Polytechnic Institute</SimpleData>
+		<SimpleData name="BLDG_NUM">403.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">403.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1400 W Cold Spring Lane</SimpleData>
+		<SimpleData name="ZIPCODE">21209</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Entrance Crit</SimpleData>
+		<SimpleData name="x_1">1413184.78487000009</SimpleData>
+		<SimpleData name="y_1">612169.35235599999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.643392494387214,39.347010594196746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patterson</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Patterson</SimpleData>
+		<SimpleData name="BLDG_NUM">405.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">405.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">100 Kane Street</SimpleData>
+		<SimpleData name="ZIPCODE">21224</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional W/ CTE</SimpleData>
+		<SimpleData name="x_1">1443474.20493000001</SimpleData>
+		<SimpleData name="y_1">592574.38236000005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.536643383214866,39.292840203996207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Park</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Forest Park</SimpleData>
+		<SimpleData name="BLDG_NUM">406.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">406.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">3701 Eldorado Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21207</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1400127.61085000006</SimpleData>
+		<SimpleData name="y_1">606869.36361300002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.689625578008176,39.332590763689723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Western</SimpleData>
+		<SimpleData name="BLDG_NUM">407.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">407.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">4600 Falls Road</SimpleData>
+		<SimpleData name="ZIPCODE">21209</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Entrance Crit</SimpleData>
+		<SimpleData name="x_1">1413184.78487000009</SimpleData>
+		<SimpleData name="y_1">612169.35235599999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.643392494387214,39.347010594196746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mergenthaler Vocactional Technical</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Mergenthaler Vocactional Technical</SimpleData>
+		<SimpleData name="BLDG_NUM">410.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">410.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">3500 Hillen Road</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">CTE</SimpleData>
+		<SimpleData name="x_1">1428007.59707999998</SimpleData>
+		<SimpleData name="y_1">606634.12031699996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.591067836191129,39.331643356143346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Achievement Academy @ Harbor City</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Achievement Academy @ Harbor City</SimpleData>
+		<SimpleData name="BLDG_NUM">456.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">413.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2555 Harford Road</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">Alt</SimpleData>
+		<SimpleData name="TYPE">Alt</SimpleData>
+		<SimpleData name="x_1">1427475.69001000002</SimpleData>
+		<SimpleData name="y_1">601498.83268700005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.593029144056871,39.31755125104894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paul Laurence Dunbar</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Paul Laurence Dunbar</SimpleData>
+		<SimpleData name="BLDG_NUM">414.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">414.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1400 Orleans St</SimpleData>
+		<SimpleData name="ZIPCODE">21202</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1425923.67507000011</SimpleData>
+		<SimpleData name="y_1">593466.61023400002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.598639491021345,39.295517994405266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore School For The Arts</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore School For The Arts</SimpleData>
+		<SimpleData name="BLDG_NUM">415.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">415.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">712 Cathedral Street</SimpleData>
+		<SimpleData name="ZIPCODE">21201</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Entrance Crit</SimpleData>
+		<SimpleData name="x_1">1420608.87697000010</SimpleData>
+		<SimpleData name="y_1">594398.07851599995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.617404798084451,39.298137963889488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Digital Harbor</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Digital Harbor</SimpleData>
+		<SimpleData name="BLDG_NUM">416.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">416.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1100 Covington St.</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1423459.13504999992</SimpleData>
+		<SimpleData name="y_1">586546.58831300004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.607452738171915,39.276548670508795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W.E.B. DuBois</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">W.E.B. DuBois</SimpleData>
+		<SimpleData name="BLDG_NUM">402.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">418.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2201 Pinewood Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1433706.66803999990</SimpleData>
+		<SimpleData name="y_1">619109.99726800004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.570713343141819,39.365823033576284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reginald F. Lewis School</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Reginald F. Lewis School</SimpleData>
+		<SimpleData name="BLDG_NUM">402.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">419.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">6401 Pioneer Drive</SimpleData>
+		<SimpleData name="ZIPCODE">21214</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1433706.66803999990</SimpleData>
+		<SimpleData name="y_1">619109.99726800004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.570713343141819,39.365823033576284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The National Academy Foundation</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">The National Academy Foundation</SimpleData>
+		<SimpleData name="BLDG_NUM">133.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">421.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">500 N. Caroline Street</SimpleData>
+		<SimpleData name="ZIPCODE">21230</SimpleData>
+		<SimpleData name="CATEGORY">MS/HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1426087.59994000010</SimpleData>
+		<SimpleData name="y_1">593978.54096899997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.598052321362076,39.296921502638057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Era Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">New Era Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">181.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">422.00000000000</SimpleData>
+		<SimpleData name="GRADES">6-7, 9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2700 Seamon Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21225</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1419615.97607000009</SimpleData>
+		<SimpleData name="y_1">577890.15713499999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.621155277451976,39.252827074510805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Freedom Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Freedom Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">57.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">423.00000000000</SimpleData>
+		<SimpleData name="GRADES">6 - 12</SimpleData>
+		<SimpleData name="ADDRESS">1601 E. Lombard Street</SimpleData>
+		<SimpleData name="ZIPCODE">21231</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1426584.53988999990</SimpleData>
+		<SimpleData name="y_1">591444.17759900005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.596336017957938,39.289957468855974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heritage</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Heritage</SimpleData>
+		<SimpleData name="BLDG_NUM">40.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">425.00000000000</SimpleData>
+		<SimpleData name="GRADES">Pre-K, 9 - 12</SimpleData>
+		<SimpleData name="ADDRESS">2801 Saint Lo Drive</SimpleData>
+		<SimpleData name="ZIPCODE">21213</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1429747.65987999993</SimpleData>
+		<SimpleData name="y_1">601798.01614399999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.584994164966929,39.318344560994575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Academy For College and Career Exploration</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Academy For College and Career Exploration</SimpleData>
+		<SimpleData name="BLDG_NUM">56.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">427.00000000000</SimpleData>
+		<SimpleData name="GRADES">6, 9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1300 W. 36th Street</SimpleData>
+		<SimpleData name="ZIPCODE">21211</SimpleData>
+		<SimpleData name="CATEGORY">TS</SimpleData>
+		<SimpleData name="TYPE">TS</SimpleData>
+		<SimpleData name="x_1">1414822.33737000008</SimpleData>
+		<SimpleData name="y_1">606306.10522499995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.63768450542176,39.330895726069926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Talent Development</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore Talent Development</SimpleData>
+		<SimpleData name="BLDG_NUM">78.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">428.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1500 Harlem Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Innovation HS</SimpleData>
+		<SimpleData name="x_1">1413483.90599000012</SimpleData>
+		<SimpleData name="y_1">594022.90406900004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642586041873599,39.297187219517518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vivien T. Thomas Medical Arts Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Vivien T. Thomas Medical Arts Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">178.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">429.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">100 N. Calhoun Street</SimpleData>
+		<SimpleData name="ZIPCODE">21223</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1414237.10789000010</SimpleData>
+		<SimpleData name="y_1">591484.25297899998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.639960020713417,39.29020929448626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Augusta Fells Savage Institute of Visual Arts</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Augusta Fells Savage Institute of Visual Arts</SimpleData>
+		<SimpleData name="BLDG_NUM">78.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">430.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1500 Harlem Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1413483.90599000012</SimpleData>
+		<SimpleData name="y_1">594022.90406900004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642586041873599,39.297187219517518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maritime Industries Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Maritime Industries Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">170.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">431.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">5001 Sinclair Lane</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1440763.15687000006</SimpleData>
+		<SimpleData name="y_1">602617.20938699995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.546045647306471,39.320449671307507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coppin Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Coppin Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">432.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">432.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2500 W. North Avenue</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">Charter</SimpleData>
+		<SimpleData name="TYPE">Charter</SimpleData>
+		<SimpleData name="x_1">1408887.16091999994</SimpleData>
+		<SimpleData name="y_1">598655.08214099996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.658767231811481,39.309953000997787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Renaissance Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Renaissance Academy</SimpleData>
+		<SimpleData name="BLDG_NUM">130.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">433.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">1301 McCulloh Street</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Innovation HS</SimpleData>
+		<SimpleData name="x_1">1417641.19393000007</SimpleData>
+		<SimpleData name="y_1">596121.11509600002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627866267120439,39.302902182058013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institute of Business and Entrepreneurship</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Institute of Business and Entrepreneurship</SimpleData>
+		<SimpleData name="BLDG_NUM">79.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">435.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2801 N. Dukeland Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1407306.76184999989</SimpleData>
+		<SimpleData name="y_1">601539.21876099997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.664315019295842,39.317887366533249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frederick Douglass</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Frederick Douglass</SimpleData>
+		<SimpleData name="BLDG_NUM">450.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">450.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2301 Gwynns Falls Parkway</SimpleData>
+		<SimpleData name="ZIPCODE">21217</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Traditional</SimpleData>
+		<SimpleData name="x_1">1409939.87009999994</SimpleData>
+		<SimpleData name="y_1">600432.04544999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655023135112287,39.314820719452293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carver Vocational Technical</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Carver Vocational Technical</SimpleData>
+		<SimpleData name="BLDG_NUM">454.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">454.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">2201 W Presstman Street</SimpleData>
+		<SimpleData name="ZIPCODE">21216</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Entrance Crit</SimpleData>
+		<SimpleData name="x_1">1410677.87189999991</SimpleData>
+		<SimpleData name="y_1">596751.78968799999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.652464313280248,39.304709033681696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore City College</name>
+	<ExtendedData><SchemaData schemaUrl="#schools">
+		<SimpleData name="Name">Baltimore City College</SimpleData>
+		<SimpleData name="BLDG_NUM">480.00000000000</SimpleData>
+		<SimpleData name="PRG__NUM">480.00000000000</SimpleData>
+		<SimpleData name="GRADES">9 - 12.</SimpleData>
+		<SimpleData name="ADDRESS">3220 The Alameda</SimpleData>
+		<SimpleData name="ZIPCODE">21218</SimpleData>
+		<SimpleData name="CATEGORY">HS</SimpleData>
+		<SimpleData name="TYPE">Entrance Crit</SimpleData>
+		<SimpleData name="x_1">1426345.11615999998</SimpleData>
+		<SimpleData name="y_1">604464.30510200001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.596978833737467,39.325706560784219</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>

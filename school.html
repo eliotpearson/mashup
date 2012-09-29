@@ -25,10 +25,10 @@
         can also create InfoWindows if the data is supplied. This example uses a KML feed to create shapes.*/
 
         MQA.withModule('dotcomwindowmanager','remotecollection','kmldeserializer', 'viewoptions', function() {
-          var metro = new MQA.RemoteCollection('cameras.kml',new MQA.KMLDeserializer());
-          metro.collectionName='metro lines';
+          var metro = new MQA.RemoteCollection('schools.kml',new MQA.KMLDeserializer());
+          metro.collectionName='schools';
 
-		  console.log(metro.loaded);
+		  console.log(metro);
 
           MQA.EventManager.addListener(metro,'loaded',function(e){
             map.setZoomLevel(12);
@@ -36,9 +36,9 @@
             console.log(metro.items);
             
             for(var index = 0; index < metro.items.length; index++) {
-            	metro.items[index].setIcon(new MQA.Icon("http://localhost/mashup/camera_icon_small.gif",16,16));
+            	//metro.items[index].setIcon(new MQA.Icon("http://localhost/camera_icon_small.gif",16,16));
             
-            	console.log(metro.items[index].getIcon());
+            	//console.log(metro.items[index].getIcon());
             }
             
           });
