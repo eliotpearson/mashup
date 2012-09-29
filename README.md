@@ -1,8 +1,10 @@
 Assumptions:
 
--MongoDB is installed
--Apache server with php5 is installed
--MongoDB php driver is installed
+1. MongoDB is installed
+2. Apache server with php5 is installed
+3. MongoDB php driver is installed
+4. Apache httpd server serves on port 80
+5. Files are loading into a mashup directory
 
 
 1. Download and cleanse the data
@@ -13,5 +15,5 @@ Assumptions:
 
 3. CURL results into a KML file
 
-curl http://localhost/test.php > /Library/WebServer/Documents/cameras.kml 
+curl http://localhost/mashup/test.php > /Library/WebServer/Documents/mashup/cameras.kml 
 
