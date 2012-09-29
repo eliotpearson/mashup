@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>s2</name>
+<Schema name="s2" id="s2">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="description" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Steuart Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Steuart Hill</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642666752786837,39.287114677348043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Langston Hughes</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Langston Hughes</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.680031412387322,39.342217578180588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cecil</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Cecil</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.605762388241118,39.313197546903154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Springs</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">City Springs</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.59736271963169,39.289610018002854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>James McHenry</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">James McHenry</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.632699405113087,39.287428976639397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eutaw-Marshburn</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Eutaw-Marshburn</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.6302877962125,39.306152000241752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakeland</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Lakeland</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.6448856537897,39.253824216849246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tench Tilghman</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Tench Tilghman</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.585415499503554,39.29818608892532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Stadium School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599442518838259,39.325034492321471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Johnston Square</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Johnston Square</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.604363559113125,39.303578694357761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Hilton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.673851762701887,39.319149484646651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">George Washington</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.629143900222161,39.281121281213593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wolfe Street Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Wolfe Street Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.589905036812425,39.288019105431147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westside</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Westside</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.644487601612653,39.314215073384027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Rayner Browne</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dr. Rayner Browne</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.584244729760442,39.30311643645134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Commodore John Rodgers</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Commodore John Rodgers</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.588127764465824,39.293585431752831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William Pinderhughes</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">William Pinderhughes</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.640512667126146,39.306304483718797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matthew A. Henson</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Matthew A. Henson</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650392528133779,39.306772481580502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coldstream Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Coldstream Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.602462088651578,39.3218246343936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charles Carroll Barrister</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Charles Carroll Barrister</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.635939346689909,39.27982059164043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Harlem Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.641152390210792,39.298300573427142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harford Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Harford Heights</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.594290049432246,39.313449528247908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dallas F. Nicholas Sr.</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dallas F. Nicholas Sr.</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.613580622159702,39.312908822437606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garrison</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Garrison</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.684342860248378,39.332310061396583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montebello</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Montebello</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.585419211766279,39.328012646760193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Federal Hill</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.611274341983048,39.277527173161801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hampstead Hill Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Hampstead Hill Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.576164875258613,39.286072140426903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northeast</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Northeast</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.551720576495796,39.324377738506762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abbottston</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Abbottston</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599442518838259,39.325034492321471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waverly</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Waverly</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.604410582587747,39.330213922820541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Margaret Brent</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Margaret Brent</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.615151939032089,39.319750766751064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barclay</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Barclay</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.611817221971251,39.323649396295053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hampden</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Hampden</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.629897431054232,39.332098349398443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Nathan A. Pitts-Ashburton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dr. Nathan A. Pitts-Ashburton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.667531427794557,39.330919805387587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gwynns Falls</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Gwynns Falls</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.663415691659822,39.315178580107997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>John Eager Howard</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">John Eager Howard</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.632295816170668,39.311732304846018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgecombe Circle</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Edgecombe Circle</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.662693172385062,39.344701624397032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosemont</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Rosemont</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.662699011762356,39.304313744706981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liberty</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Liberty</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683710154199588,39.326100594766473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Royal</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Mount Royal</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624284837204414,39.309032904446866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edgewood</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Edgewood</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676555485647398,39.309081963756832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sarah M. Roach</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Sarah M. Roach</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.674733098671723,39.282859282027928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calverton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Calverton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.65871922020078,39.300853304617931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francis Scott Key</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Francis Scott Key</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.594695386383705,39.2680534084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Bend</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">North Bend</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705131483618459,39.283425295586127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William Paca</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">William Paca</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.579635171828016,39.295293170219693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomas Johnson</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Thomas Johnson</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.610792088954639,39.270989583765257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Worthington</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Fort Worthington</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.578896262867033,39.307858205180793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakewood</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Lakewood</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.580694815544192,39.30863946131506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Windsor Hills</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Windsor Hills</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.682890232508768,39.316330278703909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lyndhurst</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Lyndhurst</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683130341069315,39.29503468097446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rognel Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Rognel Heights</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.69248260194405,39.298091211336278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Franklin Square</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Franklin Square</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.64067239383192,39.291182813345088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Collington Square</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Collington Square</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.586645845567887,39.307340175681553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samuel F.B. Morse</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Samuel F.B. Morse</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650508353969229,39.281790420943516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moravia Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Moravia Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.541172686452455,39.317035084530325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gilmor</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Gilmor</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642425340736224,39.304303851522114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samuel Coleridge-Taylor</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Samuel Coleridge-Taylor</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.626173109280728,39.298871269299973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bay-Brook</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Bay-Brook</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.598592971404187,39.225383587301202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Furman L Templeton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Furman L Templeton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.630356209565079,39.299699318230303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Booker T. Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Booker T. Washington</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627866267120439,39.302902182058013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walter P. Carter</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Walter P. Carter</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.604130750930878,39.342953309670207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Robert W. Coleman</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Robert W. Coleman</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655328257351528,39.312988570161473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>James Mosher</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">James Mosher</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655752420210305,39.299802982529606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alexander Hamilton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Alexander Hamilton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.665977372300787,39.297601099965547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary Ann Winterling</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Mary Ann Winterling</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.65389524016399,39.291656031231547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cherry Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Cherry Hill</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.623710238533405,39.248061253261213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Carter Godwin Woodson</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dr. Carter Godwin Woodson</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.622554566819147,39.252354640725898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patapsco</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Patapsco</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624213815581555,39.246531471027431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arundel</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Arundel</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627606820508916,39.252274877527896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George W.F. McMechen</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">George W.F. McMechen</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.683636009932087,39.337351497778521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Excel Academy @ Francis M. Wood</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Excel Academy @ Francis M. Wood</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.634381916024068,39.291948548160399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southside Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Southside Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.621155277451976,39.252827074510805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dickey Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dickey Hill</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.703868097708678,39.311457438265002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maree Garnett Farring</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Maree Garnett Farring</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.60697891163457,39.236821046588354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mary E. Rodman</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Mary E. Rodman</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676451473499711,39.292052516832392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodhome</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Woodhome</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.540535746515062,39.36692423657739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Furley</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Furley</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552524848977825,39.328579385229304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curtis Bay</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Curtis Bay</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.592986378673601,39.226228760012162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hazelwood</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Hazelwood</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.538500982388754,39.338632724942904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gardenville</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Gardenville</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552533446418892,39.338814794598278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garrett Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Garrett Heights</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.569537508083172,39.349458496054737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Govans</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Govans</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.608138280579539,39.360623907605579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guilford</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Guilford</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.610697319799613,39.343981397863764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highlandtown #215</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Highlandtown #215</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.57059867605615,39.289814585297414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Belmont</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Belmont</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.670992931327305,39.303675481235828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yorkwood</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Yorkwood</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.581192878317836,39.363544120061647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morrell Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Morrell Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.650799953517222,39.262901545061425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mount Washington</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Mount Washington</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.654935321546489,39.365809289158065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pimlico</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Pimlico</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.667713548549855,39.347740781329271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grove Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Grove Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.699240604849734,39.342210988443725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westport</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Westport</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.637657119624166,39.262112306603065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Violetville</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Violetville</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.673665457979624,39.26753509104951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>John Ruhrah</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">John Ruhrah</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552318817755108,39.284235719852902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holabird</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Holabird</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.538628842319355,39.275785295365424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brehms Lane</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Brehms Lane</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.566256991122358,39.321417297954675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomas Jefferson</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Thomas Jefferson</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.697612813547266,39.295520246236457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roland Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Roland Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.633771667935648,39.357542117064739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arlington</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Arlington</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.68405593738207,39.350424867344366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glenmount</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Glenmount</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.54135412512872,39.351927051976581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hamilton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Hamilton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.557635504532684,39.359812276524551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highlandtown #237</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Highlandtown #237</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.565043726779393,39.28921894591398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benjamin Franklin #239 @ Masonville Cove</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Benjamin Franklin #239 @ Masonville Cove</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.593505570537999,39.23267334667193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Graceland Park / O'Donnell Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Graceland Park / O'Donnell Heights</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.539939262780422,39.282355838811817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fallstaff</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Fallstaff</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705427512578865,39.362117349359146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwood</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Northwood</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.58874704644748,39.352734070233026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Armistead Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Armistead Garden</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.552769293123632,39.304736977439156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leith Walk</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Leith Walk</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.591475079007935,39.365312949396248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beechfield</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Beechfield</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.693444657177906,39.280739754474951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cross Country</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Cross Country</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.688120575054938,39.362479167898492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sinclair Lane</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Sinclair Lane</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.56079458515039,39.315043187995286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medfield Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Medfield Heights</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642527481851332,39.340810629569184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Bernard Harris Sr.</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dr. Bernard Harris Sr.</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.59866034957281,39.306722512421771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Callaway</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Callaway</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.678404337242469,39.336252008290849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Martin Luther King Jr</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Dr. Martin Luther King Jr</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.656868066254404,39.333117242355293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calvin  M. Rodwell</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Calvin  M. Rodwell</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.694048859171062,39.33032239666548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frederick</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Frederick</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.656769265309237,39.282357889662777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lockerman Bundy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Lockerman Bundy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.64960552948628,39.292482293725818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Empowerment Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Empowerment Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.659102004619172,39.297429617908996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William C. March</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">William C. March</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.594290049432246,39.313449528247908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>William S. Baer School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">William S. Baer School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.656694307719732,39.310873167752405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Claremont School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Claremont School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.553747750228823,39.301185734916231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lois T. Murray</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Lois T. Murray</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.58757136365962,39.346982871948498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sharp Leadenhall</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Sharp Leadenhall</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.618870878989298,39.276502130885213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Midtown Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Midtown Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.622134576381796,39.307948519662148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Song Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">New Song Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642977965350809,39.305690298395099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Crossroads School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">The Crossroads School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.597176313247076,39.281822302017588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kipp Ujima Village Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Kipp Ujima Village Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.657829974412806,39.345442778613481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ConneXions Community Leadership Acad</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">ConneXions Community Leadership Acad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.664315019295842,39.317887366533249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Neighbors Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">City Neighbors Charter School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.534434427406779,39.34878214983862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patterson Park Public Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Patterson Park Public Charter School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.578761919948974,39.292478227414989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southwest Baltimore Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Southwest Baltimore Charter School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.638438956140803,39.281776130943165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Inner Harbor East Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Inner Harbor East Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.60047945631355,39.294039822484073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwood Appold Community Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Northwood Appold Community Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.591764487445602,39.345737529838885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATHS (MD Academy of Technology &amp; Health Sciences)</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">MATHS (MD Academy of Technology &amp; Health Sciences)</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.657829974412806,39.345442778613481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Green School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">The Green School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.572353505782814,39.324278626698323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Independence School Local I</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Independence School Local I</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.636440921029845,39.330915472428451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bluford Drew Jemison MST Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Bluford Drew Jemison MST Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.599120053896812,39.303516957596315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore International Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore International Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.531266188891635,39.363967525285538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Montessori Public Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Montessori Public Charter School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.612483782783116,39.308038761588008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Afya Public Chater School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Afya Public Chater School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.572353505782814,39.324278626698323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Academy of Math, Science and Technology</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Friendship Academy of Math, Science and Technology</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.568311033993098,39.283002563144031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Academy of Engineering &amp; Technology</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Friendship Academy of Engineering &amp; Technology</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.560460509007939,39.366670593374671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REACH! Partnership School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">REACH! Partnership School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.584994164966929,39.318344560994575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KASA Knowledge, Achievement,  Success Acad</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">KASA Knowledge, Achievement,  Success Acad</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705369320051517,39.284918014649705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore CIVITAS</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore CIVITAS</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676539553939008,39.310273064867147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Rising Star Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Rising Star Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.587110931644702,39.314671450312559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Hope Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">New Hope Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.624841648060837,39.298475413962976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Neighbors Hamilton</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">City Neighbors Hamilton</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.554872337944545,39.35044675010208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KIPP Harmony</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">KIPP Harmony</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.665118512594134,39.333930545582483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Leadership School for Young Women</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Leadership School for Young Women</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.618027477127924,39.295185197114492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NACA Freedom and Democracy Academy II</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">NACA Freedom and Democracy Academy II</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.560460509007939,39.366670593374671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bluford Drew Jemison STEM Academy West</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Bluford Drew Jemison STEM Academy West</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.676539553939008,39.310273064867147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Liberation Diploma Plus HS</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Liberation Diploma Plus HS</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.664315019295842,39.317887366533249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Antioch Diploma Plus HS</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Antioch Diploma Plus HS</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.593029144056871,39.31755125104894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Community HS</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Community HS</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.530604205841911,39.285682625493244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Baltimore Community School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">East Baltimore Community School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.590978660343538,39.303814933513337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tunbridge Public Charter School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Tunbridge Public Charter School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.61027811053637,39.357569436028882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vanguard Collegiate MS</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Vanguard Collegiate MS</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.546045647306471,39.320449671307507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Neighbors HS</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">City Neighbors HS</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.554872337944545,39.35044675010208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green Street Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Green Street Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.705369320051517,39.284918014649705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore IT Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore IT Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.601094603863785,39.355571227707379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Edmondson Westside</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Edmondson Westside</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.688067054802517,39.291291790083704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northwestern</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Northwestern</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.704577175062042,39.364509127426786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Polytechnic Institute</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Polytechnic Institute</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.643392494387214,39.347010594196746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patterson</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Patterson</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.536643383214866,39.292840203996207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Park</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Forest Park</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.689625578008176,39.332590763689723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Western</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.643392494387214,39.347010594196746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mergenthaler Vocactional Technical</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Mergenthaler Vocactional Technical</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.591067836191129,39.331643356143346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Achievement Academy @ Harbor City</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Achievement Academy @ Harbor City</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.593029144056871,39.31755125104894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paul Laurence Dunbar</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Paul Laurence Dunbar</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.598639491021345,39.295517994405266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore School For The Arts</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore School For The Arts</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.617404798084451,39.298137963889488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Digital Harbor</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Digital Harbor</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.607452738171915,39.276548670508795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W.E.B. DuBois</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">W.E.B. DuBois</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.570713343141819,39.365823033576284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reginald F. Lewis School</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Reginald F. Lewis School</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.570713343141819,39.365823033576284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The National Academy Foundation</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">The National Academy Foundation</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.598052321362076,39.296921502638057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Era Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">New Era Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.621155277451976,39.252827074510805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Freedom Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Freedom Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.596336017957938,39.289957468855974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heritage</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Heritage</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.584994164966929,39.318344560994575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Academy For College and Career Exploration</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Academy For College and Career Exploration</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.63768450542176,39.330895726069926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore Talent Development</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore Talent Development</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642586041873599,39.297187219517518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vivien T. Thomas Medical Arts Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Vivien T. Thomas Medical Arts Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.639960020713417,39.29020929448626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Augusta Fells Savage Institute of Visual Arts</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Augusta Fells Savage Institute of Visual Arts</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.642586041873599,39.297187219517518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maritime Industries Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Maritime Industries Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.546045647306471,39.320449671307507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coppin Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Coppin Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.658767231811481,39.309953000997787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Renaissance Academy</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Renaissance Academy</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.627866267120439,39.302902182058013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institute of Business and Entrepreneurship</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Institute of Business and Entrepreneurship</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.664315019295842,39.317887366533249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frederick Douglass</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Frederick Douglass</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.655023135112287,39.314820719452293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carver Vocational Technical</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Carver Vocational Technical</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.652464313280248,39.304709033681696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baltimore City College</name>
+	<ExtendedData><SchemaData schemaUrl="#s2">
+		<SimpleData name="Name">Baltimore City College</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">-1</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.596978833737467,39.325706560784219</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
