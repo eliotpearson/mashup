@@ -6,6 +6,7 @@ Assumptions:
 4. Apache httpd server serves on port 80
 5. Files are loading into a mashup directory
 
+Running the application:
 
 1. Download and cleanse the data
 
